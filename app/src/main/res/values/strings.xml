@@ -2,4 +2,5 @@
     <string name="app_name">MyMiniSlot</string>
     <string name="haveCoin">1000</string>
     <string name="betCoin">10</string>
+    <string name="START">START</string>
 </resources>
